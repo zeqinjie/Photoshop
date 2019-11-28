@@ -1,0 +1,61 @@
+PODS:
+  - Bugly (2.5.0)
+  - CircleMenu (3.1.0)
+  - CropViewController (2.4.0)
+  - EFColorPicker (1.1.0)
+  - ESPullToRefresh (2.7)
+  - GPUImage (0.1.7)
+  - GPUImageBeautifyFilter (1.0.0):
+    - GPUImage
+  - HandyJSON (4.2.1)
+  - Hero (1.4.0)
+  - KeychainAccess (3.1.2)
+  - SnapKit (4.0.1)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Bugly
+  - CircleMenu (= 3.1.0)
+  - CropViewController
+  - EFColorPicker (= 1.1.0)
+  - ESPullToRefresh
+  - GPUImage (~> 0.1.7)
+  - GPUImageBeautifyFilter
+  - HandyJSON
+  - Hero
+  - KeychainAccess
+  - SnapKit (~> 4.0.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bugly
+    - CircleMenu
+    - CropViewController
+    - EFColorPicker
+    - ESPullToRefresh
+    - GPUImage
+    - GPUImageBeautifyFilter
+    - HandyJSON
+    - Hero
+    - KeychainAccess
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  CircleMenu: 68e85ad9ea8e22aa5cb00b204abb176c5edec587
+  CropViewController: a090820b15fc3da68e694d7c192a4708c576828b
+  EFColorPicker: 214e1979a4017245375b1e276cba952d902b8132
+  ESPullToRefresh: 119e2710b82b75536aab2bbe4883ba119fca35c8
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  GPUImageBeautifyFilter: 6eb451b50c395109172ae1f9e69c4241d0126c09
+  HandyJSON: d0c5fc80204f29056d59d3e5c4587fa0b16b60a8
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 334f783ec51a9fa1bd2a83bc6de678a3ea0ac0ff
+
+COCOAPODS: 1.5.3

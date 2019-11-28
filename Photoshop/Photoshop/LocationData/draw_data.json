@@ -1,0 +1,56 @@
+{
+    "data": {
+        "items": [
+            {
+                "photo": "draw_paint_pen",
+                "type":"pen",
+                "title": "画笔"
+            },
+            {
+                "photo": "draw_line",
+                "type":"line",
+                "title": "画线"
+            },
+            {
+                "photo": "draw_rect",
+                "type":"rect",
+                "title": "矩形"
+            },
+            {
+                "photo": "draw_rect_fill",
+                "type":"rect_fill",
+                "title": "矩形(填充)"
+            },
+            {
+                "photo": "draw_circle",
+                "type":"circle",
+                "title": "圆形"
+            },
+            {
+                "photo": "draw_circle_fill",
+                "type":"circle_fill",
+                "title": "圆形(填充)"
+            },
+            {
+                "photo": "draw_arrow",
+                "type":"arrow",
+                "title": "箭头"
+            },
+            {
+                "photo": "draw_text",
+                "type":"text",
+                "title": "文本"
+            },
+            {
+                "photo": "draw_att_text",
+                "type":"att_text",
+                "title": "富文本"
+            },
+            {
+                "photo": "draw_rubber",
+                "type":"rubber",
+                "title": "橡皮擦"
+            }
+        ]
+    }
+}

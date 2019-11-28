@@ -1,0 +1,6 @@
+framework module Pods_Photoshop {
+  umbrella header "Pods-Photoshop-umbrella.h"
+
+  export *
+  module * { export * }
+}

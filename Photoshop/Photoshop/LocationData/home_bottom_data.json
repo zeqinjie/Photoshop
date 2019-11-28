@@ -1,0 +1,382 @@
+{
+    "data": {
+        "sections": [
+            {
+                "section": 0,
+                "photo": "jiu_gong_ge",
+                "selPhoto": "jiu_gong_ge_sel",
+                "title": "九宫格",
+                "titleColor": "ffffff",
+                "items": [
+                    {
+                        "index": 0,
+                        "photo": "jiu_gong_ge_9",
+                        "title": "9宫格"
+                    },
+                    {
+                        "index": 1,
+                        "photo": "jiu_gong_ge_4",
+                        "title": "4宫格"
+                    },
+                    {
+                        "index": 2,
+                        "photo": "jiu_gong_ge_remove",
+                        "title": "移除"
+                    }
+                ]
+            },
+            {
+                "section": 1,
+                "photo": "add_click",
+                "selPhoto": "add_click_sel",
+                "title": "贴图",
+                "titleColor": "ffffff",
+                "items": [
+                    {
+                        "index": 100,
+                        "photo": "cut_remove",
+                        "title": ""
+                    },
+                    {
+                        "index": 14,
+                        "photo": "cut17",
+                        "title": ""
+                    },
+                    {
+                        "index": 15,
+                        "photo": "cut18",
+                        "title": ""
+                    },
+                    {
+                        "index": 16,
+                        "photo": "cut19",
+                        "title": ""
+                    },
+                    {
+                        "index": 17,
+                        "photo": "cut20",
+                        "title": ""
+                    },
+                    {
+                        "index": 18,
+                        "photo": "cut21",
+                        "title": ""
+                    },
+                    {
+                        "index": 0,
+                        "photo": "cut3",
+                        "title": ""
+                    },
+                    {
+                        "index": 1,
+                        "photo": "cut4",
+                        "title": ""
+                    },
+                    {
+                        "index": 2,
+                        "photo": "cut5",
+                        "title": ""
+                    },
+                    {
+                        "index": 3,
+                        "photo": "cut6",
+                        "title": ""
+                    },
+                    {
+                        "index": 4,
+                        "photo": "cut7",
+                        "title": ""
+                    },
+                    {
+                        "index": 5,
+                        "photo": "cut8",
+                        "title": ""
+                    },
+                    {
+                        "index": 6,
+                        "photo": "cut9",
+                        "title": ""
+                    },
+                    {
+                        "index": 7,
+                        "photo": "cut10",
+                        "title": ""
+                    },
+                    {
+                        "index": 8,
+                        "photo": "cut11",
+                        "title": ""
+                    },
+                    {
+                        "index": 9,
+                        "photo": "cut12",
+                        "title": ""
+                    },
+                    {
+                        "index": 10,
+                        "photo": "cut13",
+                        "title": ""
+                    },
+                    {
+                        "index": 11,
+                        "photo": "cut14",
+                        "title": ""
+                    },
+                    {
+                        "index": 12,
+                        "photo": "cut15",
+                        "title": ""
+                    },
+                    {
+                        "index": 13,
+                        "photo": "cut16",
+                        "title": ""
+                    },
+                    {
+                        "index": 19,
+                        "photo": "cut22",
+                        "title": ""
+                    },
+                    {
+                        "index": 20,
+                        "photo": "cut23",
+                        "title": ""
+                    },
+                    {
+                        "index": 21,
+                        "photo": "cut24",
+                        "title": ""
+                    },
+                    {
+                        "index": 22,
+                        "photo": "cut25",
+                        "title": ""
+                    },
+                    {
+                        "index": 23,
+                        "photo": "cut26",
+                        "title": ""
+                    },
+                    {
+                        "index": 24,
+                        "photo": "cut27",
+                        "title": ""
+                    },
+                    {
+                        "index": 34,
+                        "photo": "cut38",
+                        "title": ""
+                    },
+                    {
+                        "index": 25,
+                        "photo": "cut28",
+                        "title": ""
+                    },
+                    {
+                        "index": 26,
+                        "photo": "cut29",
+                        "title": ""
+                    },
+                    {
+                        "index": 27,
+                        "photo": "cut30",
+                        "title": ""
+                    },
+                    {
+                        "index": 28,
+                        "photo": "cut31",
+                        "title": ""
+                    },
+                    {
+                        "index": 29,
+                        "photo": "cut32",
+                        "title": ""
+                    },
+                    {
+                        "index": 30,
+                        "photo": "cut33",
+                        "title": ""
+                    },
+                    {
+                        "index": 31,
+                        "photo": "cut34",
+                        "title": ""
+                    },
+                    {
+                        "index": 32,
+                        "photo": "cut35",
+                        "title": ""
+                    },
+                    {
+                        "index": 33,
+                        "photo": "cut36",
+                        "title": ""
+                    },
+                    {
+                        "index": 33,
+                        "photo": "cut37",
+                        "title": ""
+                    }
+                ]
+            },
+            {
+                "section": 2,
+                "photo": "lvjing",
+                "selPhoto": "lvjing_sel",
+                "title": "滤镜",
+                "titleColor": "ffffff",
+                "items": [
+                    {
+                        "index": 7,
+                        "photo": "clear_unsel_lev",
+                        "selPhoto": "clear_lev",
+                        "title": "清除"
+                    },
+                    {
+                        "isSel": 1,
+                        "index": 2,
+                        "photo": "color_unsel_lev",
+                        "selPhoto": "color_lev",
+                        "title": "颜色"
+                    },
+                    {
+                        "isSel": 0,
+                        "index": 0,
+                        "photo": "light_unsel_lev",
+                        "selPhoto": "light_lev",
+                        "title": "亮度"
+                    },
+                    {
+                        "index": 1,
+                        "photo": "export_unsel_lev",
+                        "selPhoto": "export_lev",
+                        "title": "曝光"
+                    },
+                    {
+                        "index": 3,
+                        "photo": "saturation_unsel_lev",
+                        "selPhoto": "saturation_lev",
+                        "title": "饱和度"
+                    },
+                    {
+                        "index": 4,
+                        "photo": "hight_light_unsel_lev",
+                        "selPhoto": "hight_light_lev",
+                        "title": "高光"
+                    },
+                    {
+                        "index": 5,
+                        "photo": "shadow_unsel_lev",
+                        "selPhoto": "shadow_lev",
+                        "title": "阴影"
+                    },
+                    {
+                        "index": 6,
+                        "photo": "white_balance_unsel_lev",
+                        "selPhoto": "white_balance_lev",
+                        "title": "色温"
+                    },
+                    {
+                        "index": 8,
+                        "photo": "contrast_unsel_lev",
+                        "selPhoto": "contrast_lev",
+                        "title": "对比度"
+                    }
+                ]
+            },
+            {
+                "section": 3,
+                "photo": "efficiency",
+                "selPhoto": "efficiency_sel",
+                "title": "特效",
+                "titleColor": "ffffff",
+                "items": [
+                    {
+                        "index": 0,
+                        "photo": "girl",
+                        "efficiencyType":"original",
+                        "title": "原图"
+                    },
+                    {
+                        "index": 14,
+                        "photo": "girl",
+                        "efficiencyType":"beautify",
+                        "title": "美颜"
+                    },
+                    {
+                        "index": 1,
+                        "photo": "girl",
+                        "efficiencyType":"sepia",
+                        "title": "怀旧"
+                    },
+                    {
+                        "index": 2,
+                        "photo": "girl",
+                        "efficiencyType":"grayscale",
+                        "title": "黑白"
+                    },
+                    {
+                        "index": 4,
+                        "photo": "girl",
+                        "efficiencyType":"sketch",
+                        "title": "素描"
+                    },
+                    {
+                        "index": 5,
+                        "photo": "girl",
+                        "efficiencyType":"smoothToon",
+                        "title": "卡通"
+                    },
+                    {
+                        "index": 6,
+                        "photo": "girl",
+                        "efficiencyType":"gaussianBlur",
+                        "title": "毛玻璃"
+                    },
+                    {
+                        "index": 7,
+                        "photo": "girl",
+                        "efficiencyType":"vignette",
+                        "title": "晕影"
+                    },
+                    {
+                        "index": 8,
+                        "photo": "girl",
+                        "efficiencyType":"emboss",
+                        "title": "浮雕"
+                    },
+                    {
+                        "index": 9,
+                        "photo": "girl",
+                        "efficiencyType":"gamma",
+                        "title": "伽马"
+                    },
+                    {
+                        "index": 10,
+                        "photo": "girl",
+                        "efficiencyType":"bulgeDistortion",
+                        "title": "鱼眼"
+                    },
+                    {
+                        "index": 11,
+                        "photo": "girl",
+                        "efficiencyType":"stretchDistortion",
+                        "title": "哈哈镜"
+                    },
+                    {
+                        "index": 12,
+                        "photo": "girl",
+                        "efficiencyType":"pinchDistortion",
+                        "title": "凹面镜"
+                    },
+                    {
+                        "index": 13,
+                        "photo": "girl",
+                        "efficiencyType":"colorInvert",
+                        "title": "反色"
+                    }
+                ]
+            }
+        ]
+    }
+}

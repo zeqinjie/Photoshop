@@ -1,0 +1,34 @@
+{
+    "data": {
+        "items": [
+            {
+                "photo": "design",
+                "selPhoto":"design_sel",
+                "segue":"home_design_segue",
+                "color":"432572",
+                "title": "照片编辑"
+            },
+            {
+                "photo": "depic",
+                "selPhoto":"depic_sel",
+                "segue":"compress_pic_segue",
+                "color":"4e7dff",
+                "title": "照片压缩"
+            },
+            {
+                "photo": "about",
+                "selPhoto":"about_sel",
+                "segue":"about_segue",
+                "color":"48c360",
+                "title": "关于"
+            },
+            {
+                "photo": "drawboard",
+                "selPhoto":"drawboard_sel",
+                "segue":"drawboard_segue",
+                "color":"ffa244",
+                "title": "画板"
+            }
+        ]
+    }
+}
