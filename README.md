@@ -1,2 +1,2 @@
 # Photoshop
-Photoshopxxxxx
+简单滤镜APP
